@@ -12,7 +12,7 @@ Nothing fancy, Lets see how far it goes.
 | 1   | 17 Oct 2025 | 		6          |
 | 2   | 18 Oct 2025 |       3          |
 | 3   | 19 Oct 2025 |       7          |
-| 4   | 20 Oct 2025 |       2          |
+| 4   | 20 Oct 2025 |       3          |
 
 
 ## Language
