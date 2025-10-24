@@ -16,7 +16,8 @@ Nothing fancy, Lets see how far it goes.
 |  5  | 21 Oct 2025 |       7          |       |
 |  6  | 22 Oct 2025 |       3          |
 |  7  | 23 Oct 2025 |       4          |
- 
+|  8  | 24 Oct 2025 |       2          |
+
 ## Language
 - C++
 
